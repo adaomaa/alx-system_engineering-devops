@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -nq
+ls -na
